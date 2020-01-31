@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: mysql://mysql:3306
+  data:
+    mongodb:
+      uri: mongodb://mongodb:27017/local

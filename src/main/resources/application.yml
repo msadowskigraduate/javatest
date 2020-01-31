@@ -1,0 +1,10 @@
+server:
+  port: 7999
+application:
+  policy:
+    maxLimit:
+      enabled: true
+      maxResultsPerPage: 3
+spring:
+  jpa:
+    show-sql: true
